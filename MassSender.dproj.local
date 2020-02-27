@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/27 11:09:30.000.441,=C:\Epta Softwares\Epta Hotpost\Projeto\branches\MainModule.pas</Transaction>
+    <Transaction>2020/02/27 11:09:30.000.331,=C:\Epta Softwares\Epta Hotpost\Projeto\branches\ServerModule.pas</Transaction>
+    <Transaction>2020/02/27 11:09:34.000.206,=C:\Epta Softwares\Epta Hotpost\Projeto\branches\Main.pas</Transaction>
+    <Transaction>2020/02/27 14:07:25.000.704,=C:\Epta Softwares\Epta Hotpost\Projeto\branches\TwilioClient.pas</Transaction>
+    <Transaction>2020/02/27 18:00:21.000.929,C:\Epta Softwares\Epta Hotpost\Projeto\branches\Hotpost.dproj=C:\Epta Softwares\Epta Hotpost\Projeto\branches\Twilio Mass Sender\MassSender.dproj</Transaction>
+    <Transaction>2020/02/27 18:04:16.402,C:\Epta Softwares\Epta Hotpost\Projeto\branches\MassSender.dproj=C:\Epta Softwares\Epta Hotpost\Projeto\branches\Twilio Mass Sender\MassSender.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
